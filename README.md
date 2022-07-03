@@ -1,4 +1,5 @@
 # Smart Mirror Using Image Processing & Deep Learning 
+<img width="70%" src="https://user-images.githubusercontent.com/63233441/177039462-d7ab7901-8e53-418d-8c02-328758573a2a.gif"/>
 
 <h3> This project is a project of the Capstone Design Team "MVP" of the Department of Robotics in the first semester of 2020.
 
@@ -28,5 +29,3 @@
 <h5>- 옷을 인식하기 위해 YOLO을 통한 Detection Network 설계
 <h5>- 실시간성을 위한 v1,v2,v3 설계 및 Test
 
-
-## Results
